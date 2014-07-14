@@ -1,4 +1,9 @@
 *.*~
+pygermanet/
+gewiss/
+
+.DS_Store
+*.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -36,6 +41,8 @@ htmlcov/
 nosetests.xml
 coverage.xml
 
+.idea/
+
 # Translations
 *.mo
 
@@ -53,4 +60,3 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
-
