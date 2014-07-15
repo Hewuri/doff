@@ -17,6 +17,7 @@ def isFalseFriend(word):
     		return False
     	return hasSamePartOfSpeech(word)
 
-    #if isGermanWord(word) and not isEnglishWord(word):
-    #	return hasSimiliarWords()
+ #   if isGermanWord(word) and not isEnglishWord(word):
+#  	return hasSimiliarWords()
     return False
+
